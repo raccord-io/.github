@@ -1,6 +1,6 @@
 # FastClap <img width="50" src= "https://github.com/FastClap/.github/blob/master/assets/epitech-logo.png">
 
-> ## Notre projet
+## Notre projet
 
 **Fast Clap** est une solution qui permet de faciliter aux assistants réalisateurs la tâche de pré-production cinématographique tout en introduisant des solutions d'éco-production.
 
