@@ -42,6 +42,6 @@ Les objectifs sur le long terme sont:
 
 
 
-### Nos Partnenaires
+## Nos Partnenaires
 
 <img width="70" src="../assets/advitamcout-logo.png" href="https://www.instagram.com/advitam_court/?hl=fr">
