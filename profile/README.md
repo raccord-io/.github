@@ -1,4 +1,4 @@
-# FastClap <img width="50" src= "./../assets/epitech-logo.png">
+# FastClap <img width="50" src= "https://github.com/FastClap/.github/blob/master/assets/epitech-logo.png">
 
 > ## Notre projet
 
@@ -44,4 +44,4 @@ Les objectifs sur le long terme sont:
 
 ## Nos Partnenaires
 
-<img width="70" src="../assets/advitamcout-logo.png" href="https://www.instagram.com/advitam_court/?hl=fr">
+<img width="70" src="https://github.com/FastClap/.github/blob/master/assets/advitamcout-logo.png" href="https://www.instagram.com/advitam_court/?hl=fr">
