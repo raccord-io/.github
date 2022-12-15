@@ -3,20 +3,21 @@
 La préproduction, c’est l’ensemble des démarches et actions à entreprendre en amont du tournage afin de s’assurer de son bon déroulement.
 Durant la préproduction, on définit et on recherche les moyens techniques, financiers, et humains qui permettront de réaliser le film. Globalement, c’est un long travail qui est fait en amont de la production.
 
-Le travail de l’assistant réalisateur consiste à partir d’un scénario et de réaliser ce que l’on appelle un plan de travail, qui répertorie tous les décors, accessoires, costumes, personnages, acteurs, heures lieux et dates de chaque séquence Ce document de haute importance fait  réellement office de référence pour toutes les personnes travaillant sur le tournage.
+Le travail de l’assistant réalisateur consiste à partir d’un scénario de réaliser ce que l’on appelle un plan de travail, qui répertorie tous les décors, accessoires, costumes, personnages, acteurs, heures, lieux et dates de chaque séquence. Ce document de haute importance fait réellement office de référence pour toutes les personnes travaillant sur le tournage.
 C’est un travail laborieux qui rime souvent avec casse-tête et tetris pour les assistants réalisateurs.
-Il n’existe aujourd’hui aucun logiciel réellement complet et qui fait office de référence pour aider ces derniers, certains même utilisent des tableaux excel faut d’alternatives.
 
-A cela s’ajoute un réel éveil des consciences écologique dans l’industrie du cinéma et les productions doivent faire face à ce nouvel enjeu. Elles devront ainsi fournir un bilan carbone de plus en plus détaillé de leurs productions, tâche aujourd’hui extrêmement laborieuse car nouvelle et donc sans réel outils efficace.
+À cela s’ajoute un réel éveil des consciences écologique dans l’industrie du cinéma et les productions doivent faire face à ce nouvel enjeu. Elles devront ainsi fournir un bilan carbone de plus en plus détaillé de leurs productions, tâche aujourd’hui extrêmement laborieuse car nouvelle et donc sans réel outils efficace.
 
 Ainsi ces enjeux autour de la pré-production nous ont conduit à penser cette solution : une solution complète qui, partant d’un scénario, permet la définition de l’organisation du tournage tout en contrôlant son impact sur l’environnement. Toutes les informations sont centralisées pour mieux être utilisées.
 
 ## Segmentation du projet
 
-Notre projet est essentiellement orienté pour les assistants-réalisateurs mais aussi les boites de productions françaises en général.
-Pour les assistants réalisateurs: dans le cadre de la pré-production cinématographique. Et notamment les étapes clés du dépouillement et de la réalisation d’un plan de travail dynamique et modulable.
+Notre projet est essentiellement orienté pour les assistants réalisateurs mais aussi pour les boites de productions françaises en général.
+Pour les assistants réalisateurs:
+- Dans le cadre de la pré-production cinématographique, et notamment les étapes clés du dépouillement et de la réalisation d’un plan de travail dynamique et modulable.
 
-Pour les boîtes de productions françaises: dans le cadre de la pré-production, avec un espace pour contrôler leur impact carbone et permettre d’extraire toutes les informations demandées par les différents acteurs de l’industrie du cinéma (ex: CNC).  Notre produit s’adapte aussi bien aux boîtes de production de cinéma court et long métrage qu’au production de séries ainsi qu’à celles de publicités.
+Pour les boîtes de productions françaises:
+- Dans le cadre de la pré-production, avec un espace pour contrôler leur impact carbone et permettre d’extraire toutes les informations demandées par les différents acteurs de l’industrie du cinéma (ex: CNC). Notre produit s’adapte aussi bien aux boîtes de production de cinéma court et long métrage qu’aux productions de séries ainsi qu’à celles de publicités.
 
 ## Notre Objectif sur le long terme
 
