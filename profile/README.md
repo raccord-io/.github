@@ -1,4 +1,4 @@
-# FastClap <img width="50" src= "https://github.com/FastClap/.github/blob/master/assets/epitech-logo.png">
+# Fast Clap <img width="50" src= "https://github.com/FastClap/.github/blob/master/assets/epitech-logo.png">
 
 ## Notre projet
 
