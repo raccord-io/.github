@@ -21,6 +21,7 @@ Ainsi ces enjeux autour de la pré-production nous ont conduit à penser cette s
 
 Notre projet est essentiellement orienté pour les assistants-réalisateurs mais aussi les boites de productions françaises en général.
 Pour les assistants réalisateurs: dans le cadre de la pré-production cinématographique. Et notamment les étapes clés du dépouillement et de la réalisation d’un plan de travail dynamique et modulable.
+
 Pour les boîtes de productions françaises: dans le cadre de la pré-production, avec un espace pour contrôler leur impact carbone et permettre d’extraire toutes les informations demandées par les différents acteurs de l’industrie du cinéma (ex: CNC).  Notre produit s’adapte aussi bien aux boîtes de production de cinéma court et long métrage qu’au production de séries ainsi qu’à celles de publicités.
 
 ## Notre Objectif sur le long terme
