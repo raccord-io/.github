@@ -1,11 +1,5 @@
 # Fast Clap <img width="50" src= "https://github.com/FastClap/.github/blob/master/assets/epitech-logo.png">
 
-## Notre projet
-
-**Fast Clap** est une solution qui permet de faciliter aux assistants réalisateurs la tâche de pré-production cinématographique tout en introduisant des solutions d'éco-production.
-
-## Pourquoi ce projet ?
-
 La préproduction, c’est l’ensemble des démarches et actions à entreprendre en amont du tournage afin de s’assurer de son bon déroulement.
 Durant la préproduction, on définit et on recherche les moyens techniques, financiers, et humains qui permettront de réaliser le film. Globalement, c’est un long travail qui est fait en amont de la production.
 
