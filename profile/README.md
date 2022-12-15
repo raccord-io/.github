@@ -26,14 +26,14 @@ Pour les boîtes de productions françaises: dans le cadre de la pré-production
 ## Notre Objectif sur le long terme
 
 Les objectifs sur le long terme sont:
-- Mise en place d’une CI/CD et d’un workflow de développement propre.
-- Mise en place et déploiement de l’application web de son serveur et de sa base de données.
-- A partir du travail réalisé pendant la forward et des informations ainsi récupérées, permettre à un utilisateur de générer automatiquement un premier plan de travail.
-- Permettre de modifier facilement ce plan de travail et d’accéder à chaque information facilement.
-- Fournir toute une partie réservée à la production qui leur permettra de rentrer leur budget pour chaque catégorie.
-- Pouvoir à partir des informations du plan de travail et des informations sur le budget fournies par la production établir un bilan carbone sous la forme d’un Eco Dashboard.
-- Pouvoir interagir avec cet Eco Dashboard et avoir en temps réel des anticipations et prévisions intelligentes. La production pourra alors à chaque instant connaître l’impact carbone d’une décision et se verra proposer des solutions ou suggestions pour réduire cet impact.
-- Développement d’une application mobile plus simple permettant à toute l’équipe d’être informée de l’actualité du tournage, de recevoir des notifications ou encore de réagir à certains événements.
+- [x] Mise en place d’une CI/CD et d’un workflow de développement propre.
+- [ ] Mise en place et déploiement de l’application web de son serveur et de sa base de données.
+- [ ] À partir du travail réalisé pendant la forward et des informations ainsi récupérées, permettre à un utilisateur de générer automatiquement un premier plan de travail.
+- [ ] Permettre de modifier facilement ce plan de travail et d’accéder à chaque information facilement.
+- [ ] Fournir toute une partie réservée à la production qui leur permettra de rentrer leur budget pour chaque catégorie.
+- [ ] Pouvoir à partir des informations du plan de travail et des informations sur le budget fournies par la production établir un bilan carbone sous la forme d’un Eco Dashboard.
+- [ ] Pouvoir interagir avec cet Eco Dashboard et avoir en temps réel des anticipations et prévisions intelligentes. La production pourra alors à chaque instant connaître l’impact carbone d’une décision et se verra proposer des solutions ou suggestions pour réduire cet impact.
+- [ ] Développement d’une application mobile plus simple permettant à toute l’équipe d’être informée de l’actualité du tournage, de recevoir des notifications ou encore de réagir à certains événements.
 
 ## Notre Organisation
 
