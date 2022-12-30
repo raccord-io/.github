@@ -31,7 +31,7 @@ Les objectifs sur le long terme sont:
 - [ ] Pouvoir interagir avec cet Eco Dashboard et avoir en temps réel des anticipations et prévisions intelligentes. La production pourra alors à chaque instant connaître l’impact carbone d’une décision et se verra proposer des solutions ou suggestions pour réduire cet impact.
 - [ ] Développement d’une application mobile plus simple permettant à toute l’équipe d’être informée de l’actualité du tournage, de recevoir des notifications ou encore de réagir à certains événements.
 
-## Notre Organisation
+## Notre Equipe
 
 | [<img src="https://github.com/victorpalle.png?size=85" width=85><br><sub>[Victor PALLE]</sub>](https://github.com/victorpalle) | [<img src="https://github.com/Clement-Fernandes.png?size=85" width=85><br><sub>[Clément FERNANDES]</sub>](https://github.com/Clement-Fernandes) | [<img src="https://github.com/martinvanaud.png?size=85" width=85><br><sub>[Martin VANAUD]</sub>](https://github.com/martinvanaud) | [<img src="https://github.com/Gurvan-Le-Letty.png?size=85" width=85><br><sub>[Gurvan LE LETTY]</sub>](https://github.com/Gurvan-Le-Letty) | [<img src="https://github.com/maxime-carabina.png?size=85" width=85><br><sub>[Maxime CARABINA]</sub>](https://github.com/maxime-carabina) | [<img src="https://github.com/ValentinDurieux.png?size=85" width=85><br><sub>[Valentin DURIEUX]</sub>](https://github.com/ValentinDurieux)| [<img src="https://github.com/tibo-pdn.png?size=85" width=85><br><sub>[Tibo PENDINO]</sub>](https://github.com/tibo-pdn)
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
