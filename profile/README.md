@@ -1,4 +1,6 @@
-# Raccord
+# Raccord <img width="20" src="https://github.com/Raccord-io/.github/blob/master/assets/color_palette.png">
+
+> **La solution tout en un de pré-production cinématographique**
 
 La **pré-production**, c’est l’ensemble des démarches et actions à entreprendre en amont du tournage afin de s’assurer de son bon déroulement.
 Durant la préproduction, on définit et on recherche les moyens techniques, financiers et humains qui permettront de réaliser le film. Globalement, c’est un long travail qui est fait en amont de la production.
@@ -10,7 +12,7 @@ C’est un travail laborieux qui rime souvent avec casse-tête et tetris pour le
 
 Ainsi ces enjeux autour de la pré-production nous ont conduit à penser cette solution : une solution complète qui, partant d’un scénario, permet la définition de l’organisation du tournage tout en contrôlant son impact sur l’environnement. Toutes les informations sont centralisées pour mieux être utilisées.
 
-## Notre Equipe
+## Notre Équipe
 
 <div align=center>
 
@@ -18,7 +20,3 @@ Ainsi ces enjeux autour de la pré-production nous ont conduit à penser cette s
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
-
-## Notre Partnenaire
-
-<img width="70" src="https://github.com/Raccord-io/.github/blob/master/assets/advitamcout-logo.png" href="https://www.instagram.com/advitam_court/?hl=fr">
