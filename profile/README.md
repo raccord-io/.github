@@ -1,4 +1,4 @@
-# Raccord <img width="20" src="https://github.com/Raccord-io/.github/blob/master/assets/color_pallette.png">
+# Raccord <img width="25" src="https://github.com/Raccord-io/.github/blob/master/assets/color_pallette.png">
 
 > **La solution tout en un de pré-production cinématographique**
 
