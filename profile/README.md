@@ -12,9 +12,13 @@ Ainsi ces enjeux autour de la pré-production nous ont conduit à penser cette s
 
 ## Notre Equipe
 
-| [<img src="https://github.com/victorpalle.png?size=85" width=85><br><sub>[Victor PALLE]</sub>](https://github.com/victorpalle) | [<img src="https://github.com/Clement-Fernandes.png?size=85" width=85><br><sub>[Clément FERNANDES]</sub>](https://github.com/Clement-Fernandes) | [<img src="https://github.com/martinvanaud.png?size=85" width=85><br><sub>[Martin VANAUD]</sub>](https://github.com/martinvanaud) | [<img src="https://github.com/Gurvan-Le-Letty.png?size=85" width=85><br><sub>[Gurvan LE LETTY]</sub>](https://github.com/Gurvan-Le-Letty) | [<img src="https://github.com/maxime-carabina.png?size=85" width=85><br><sub>[Maxime CARABINA]</sub>](https://github.com/maxime-carabina) | [<img src="https://github.com/ValentinDurieux.png?size=85" width=85><br><sub>[Valentin DURIEUX]</sub>](https://github.com/ValentinDurieux)| [<img src="https://github.com/tibo-pdn.png?size=85" width=85><br><sub>[Tibo PENDINO]</sub>](https://github.com/tibo-pdn)
+<div align=center>
+
+| [<img src="https://github.com/victorpalle.png?size=85" width=85><br><sub>Victor PALLE</sub>](https://github.com/victorpalle) | [<img src="https://github.com/Clement-Fernandes.png?size=85" width=85><br><sub>Clément FERNANDES</sub>](https://github.com/Clement-Fernandes) | [<img src="https://github.com/martinvanaud.png?size=85" width=85><br><sub>Martin VANAUD</sub>](https://github.com/martinvanaud) | [<img src="https://github.com/Gurvan-Le-Letty.png?size=85" width=85><br><sub>Gurvan LE LETTY</sub>](https://github.com/Gurvan-Le-Letty) | [<img src="https://github.com/maxime-carabina.png?size=85" width=85><br><sub>Maxime CARABINA</sub>](https://github.com/maxime-carabina) | [<img src="https://github.com/ValentinDurieux.png?size=85" width=85><br><sub>Valentin DURIEUX</sub>](https://github.com/ValentinDurieux)| [<img src="https://github.com/tibo-pdn.png?size=85" width=85><br><sub>Tibo PENDINO</sub>](https://github.com/tibo-pdn)
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
-## Nos Partnenaires
+</div>
+
+## Notre Partnenaire
 
 <img width="70" src="https://github.com/Raccord-io/.github/blob/master/assets/advitamcout-logo.png" href="https://www.instagram.com/advitam_court/?hl=fr">
