@@ -2,6 +2,8 @@
 
 > **La solution tout en un de pré-production cinématographique**
 
+> https://raccord.me
+
 La **pré-production**, c’est l’ensemble des démarches et actions à entreprendre en amont du tournage afin de s’assurer de son bon déroulement.
 Durant la préproduction, on définit et on recherche les moyens techniques, financiers et humains qui permettront de réaliser le film. Globalement, c’est un long travail qui est fait en amont de la production.
 
